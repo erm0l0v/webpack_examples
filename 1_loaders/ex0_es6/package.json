@@ -1,0 +1,14 @@
+{
+  "name": "ex3_es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "es6-loader": "^0.2.0"
+  }
+}
