@@ -1,6 +1,6 @@
 var path = require('path');
 
-var jquery_path = path.join(__dirname, 'vendor/jquery-1.7.js');
+var jquery_path = path.join(__dirname, 'vendor/jquery-1.3.js');
 
 module.exports = {
     entry: {
