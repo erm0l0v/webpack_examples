@@ -1,0 +1,16 @@
+{
+  "name": "ex1_notify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "result.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jshint": "^2.7.0",
+    "jshint-loader": "^0.8.3",
+    "node-notifier": "^4.2.1"
+  }
+}
