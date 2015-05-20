@@ -1,5 +1,5 @@
 {
-  "name": "ex5_jquery_right_way",
+  "name": "ex6_preloaders",
   "version": "1.0.0",
   "description": "",
   "main": "result.js",
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "exports-loader": "^0.6.2"
+    "jshint": "^2.7.0",
+    "jshint-loader": "^0.8.3"
   }
 }

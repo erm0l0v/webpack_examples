@@ -1,5 +1,5 @@
 {
-  "name": "ex5_jquery_right_way",
+  "name": "ex2_css_loader",
   "version": "1.0.0",
   "description": "",
   "main": "result.js",
@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "exports-loader": "^0.6.2"
+    "css-loader": "^0.12.1",
+    "jquery": "^2.1.4",
+    "style-loader": "^0.12.2"
   }
 }

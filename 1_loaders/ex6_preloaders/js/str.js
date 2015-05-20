@@ -1,4 +1,4 @@
-export function format(string, obj) {
+function format(string, obj) {
     var result = string;
     if (!(obj instanceof Object) || arguments.length > 2) {
         var args = [];
@@ -22,3 +22,8 @@ function replaceToken(string, tokenName, value) {
     }
     return string
 }
+
+
+module.exports = {
+    format: format
+};

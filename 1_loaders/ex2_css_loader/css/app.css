@@ -1,0 +1,7 @@
+@import "./base.css";
+
+.my-header {
+    color: #f00;
+    font-size: 30px;
+    font-family: Verdana, Geneva, sans-serif;
+}

@@ -1,0 +1,20 @@
+body {
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+}
+
+.my-header {
+    color: #f00;
+    font-size: 30px;
+    font-family: Verdana, Geneva, sans-serif;
+    background-color: #fff;
+    margin-left: 50%;
+}
+
+.my-header:before {
+    content: "";
+    display: block;
+    width: 120px;
+    height: 120px;
+    background-image: url("../img/icon.png");
+}
