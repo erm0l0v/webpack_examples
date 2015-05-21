@@ -1,0 +1,14 @@
+{
+  "name": "ex6_jquery_right_way",
+  "version": "1.0.0",
+  "description": "",
+  "main": "result.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "exports-loader": "^0.6.2"
+  }
+}

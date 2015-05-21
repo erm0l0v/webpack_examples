@@ -1,0 +1,19 @@
+{
+  "name": "ex5_jquery_bower",
+  "version": "0.0.0",
+  "homepage": "https://github.com/erm0l0v/webpack_examples",
+  "authors": [
+    "erm0l0v <kermolov@academixdirect.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4"
+  }
+}

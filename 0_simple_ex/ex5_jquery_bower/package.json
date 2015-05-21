@@ -1,5 +1,5 @@
 {
-  "name": "ex6_global_jquery",
+  "name": "ex5_jquery_bower",
   "version": "1.0.0",
   "description": "",
   "main": "result.js",
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jquery": "^2.1.4",
+    "bower-webpack-plugin": "^0.1.8",
     "node-libs-browser": "^0.5.0",
     "webpack": "^1.9.7"
   }

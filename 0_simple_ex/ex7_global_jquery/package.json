@@ -1,5 +1,5 @@
 {
-  "name": "ex5_jquery_right_way",
+  "name": "ex7_global_jquery",
   "version": "1.0.0",
   "description": "",
   "main": "result.js",
@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "exports-loader": "^0.6.2"
+    "jquery": "^2.1.4",
+    "node-libs-browser": "^0.5.0",
+    "webpack": "^1.9.7"
   }
 }
