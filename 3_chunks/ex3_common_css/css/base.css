@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'CT-Review-Widget-Fonts';
+  font-weight: normal;
+  font-style: normal;
+
+  src: url('../fonts/font-icons.eot');
+  src: url('../fonts/font-icons.eot') format('embedded-opentype'),
+  url('../fonts/font-icons.woff') format('woff'),
+  url('../fonts/font-icons.ttf') format('truetype'),
+  url('../fonts/font-icons.svg') format('svg');
+}

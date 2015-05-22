@@ -1,3 +1,3 @@
-module str from './str';
+import {format} from './str';
 
-console.log(str.format('Hello {0}!', 'World'));
+console.log(format('Hello {0}!', 'World'));
