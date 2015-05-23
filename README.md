@@ -1,1 +1,1 @@
-# webpack_examples
+# Simple webpack examples.
