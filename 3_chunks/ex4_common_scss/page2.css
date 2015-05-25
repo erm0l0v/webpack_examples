@@ -1,0 +1,64 @@
+.social-button {
+  padding: 0;
+  margin: 10px 0;
+  display: table;
+  color: #fff;
+  border-radius: 3; }
+
+.social-button.social-button--facebook {
+  background: #364085; }
+
+.social-button.social-button--facebook > .social-button__control:hover {
+  background: #3d4997; }
+
+.social-button.social-button--linkedin {
+  background: #2b61a5; }
+
+.social-button.social-button--linkedin > .social-button__control:hover {
+  background: #306db9; }
+
+.social-button__logo {
+  box-sizing: border-box;
+  display: table;
+  width: 40px;
+  border-right: 2px solid rgba(255, 255, 255, 0.15);
+  padding: 10px 5px 10px 10px;
+  vertical-align: middle;
+  white-space: nowrap;
+  text-decoration: none;
+  font-size: 22px; }
+
+.social-button__control {
+  box-sizing: border-box;
+  display: table-cell;
+  width: 100%;
+  font-size: 18px;
+  font-weight: 400;
+  color: #fff;
+  border-top-right-radius: 3;
+  border-bottom-right-radius: 3;
+  padding: 10px 16px;
+  margin-bottom: 0;
+  cursor: pointer;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  text-decoration: none; }
+
+.social-button__control:hover {
+  color: #fff;
+  text-decoration: none; }
+
+.social-button.social-button--facebook > .social-button__logo:after {
+  font-family: 'CT-Review-Widget-Fonts', FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1;
+  content: "\f09a"; }
+
+.social-button.social-button--linkedin > .social-button__logo:after {
+  font-family: 'CT-Review-Widget-Fonts', FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1;
+  content: "\f0e1"; }
