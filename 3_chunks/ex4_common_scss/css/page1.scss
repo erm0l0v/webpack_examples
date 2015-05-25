@@ -1,0 +1,61 @@
+$star-width: 85px;
+
+.star {
+  position: relative;
+  display: inline-block;
+  width: $star-width;
+  height: 24px;
+  vertical-align: middle;
+}
+.star:before,
+.star:after {
+  font-family: 'CT-Review-Widget-Fonts', FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1;
+  position: absolute;
+  left: 1px;
+  top: 1px;
+  display: inline-block;
+  font-size: 18px;
+}
+.star:after {
+  color: #126f9a;
+}
+.star:before {
+  color: #d6dbe0;
+  content: "\f005\f005\f005\f005\f005";
+}
+.star--s0:after {
+  content: '';
+}
+.star--s1:after {
+  content: "\f089";
+}
+.star--s2:after {
+  content: "\f005";
+}
+.star--s3:after {
+  content: "\f005\f089";
+}
+.star--s4:after {
+  content: "\f005\f005";
+}
+.star--s5:after {
+  content: "\f005\f005\f089";
+}
+.star--s6:after {
+  content: "\f005\f005\f005";
+}
+.star--s7:after {
+  content: "\f005\f005\f005\f089";
+}
+.star--s8:after {
+  content: "\f005\f005\f005\f005";
+}
+.star--s9:after {
+  content: "\f005\f005\f005\f005\f089";
+}
+.star--s10:after {
+  content: "\f005\f005\f005\f005\f005";
+}
