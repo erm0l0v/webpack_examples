@@ -1,0 +1,1 @@
+# Add dependency from bower to your modules
