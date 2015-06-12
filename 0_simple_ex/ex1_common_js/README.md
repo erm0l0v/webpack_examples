@@ -16,3 +16,5 @@ module.exports = {
 ```
 
 And now just run a command `webpack` in order to build js.
+
+You may found more configuration options on [this page](http://webpack.github.io/docs/configuration.html).
